@@ -12,5 +12,8 @@ https://colab.research.google.com/github/tensorflow/examples/blob/master/courses
 4. CNN과 함께하는 패션 MNIST
 https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l04c01_image_classification_with_cnns.ipynb
 
-5. 전이 학습이 있는 고양이와 개
+5. 고양이와 개
+https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l05c01_dogs_vs_cats_without_augmentation.ipynb
+
+6. 전이 학습이 있는 고양이와 개
 https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l06c01_tensorflow_hub_and_transfer_learning.ipynb
