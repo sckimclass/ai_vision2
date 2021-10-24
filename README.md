@@ -23,11 +23,17 @@ pip3 install https://dl.google.com/coral/python/tflite_runtime-2.1.0.post1-cp37-
 
 
 $ wget https://video.udacity-data.com/topher/2019/September/5d8e6a5f_image-classification/image-classification.zip
+
 $ unzip image-classification.zip
+
 $ cd image-classification
+
 $ wget https://storage.googleapis.com/download.tensorflow.org/models/tflite/mobilenet_v1_1.0_224_quant_and_labels.zip
+
 $ unzip mobilenet_v1_1.0_224_quant_and_labels
+
 $ ls -l
+
 total 7204
 -rwxr-xr-x 1 pi pi    2396 Aug  6  2019 classify.py
 -rw-r--r-- 1 pi pi   10484 Feb 27  2019 labels_mobilenet_quant_v1_224.txt
