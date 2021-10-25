@@ -1,5 +1,5 @@
 # 라즈베리파일 사용 이미지 인식 강의 영상 올립니다.
-https://drive.google.com/file/d/19gsbzH-meqflSIGsdkztlRcsLSZQ_Uy9/view?usp=sharing
+[강의 영상] https://drive.google.com/file/d/19gsbzH-meqflSIGsdkztlRcsLSZQ_Uy9/view?usp=sharing
 
 #문의 사항은 sckimclass@gmail.com 으로 메일 보내세요.
 
